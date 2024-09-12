@@ -1,7 +1,7 @@
 
 <footer>
     <div>
-        <p>Desenvolvido pela melhor turma de ADS</p>
+        <p >Loja dedicada a sua felicidade!</p>
     </div>
 </footer>
 </body>

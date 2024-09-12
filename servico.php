@@ -1,14 +1,14 @@
 <?php
-$title = "Contato ";
+$title = "Servico ";
 include 'includes/header.php';
 ?>
 
-<h1>Contato</h1>
+<h1>Serviços</h1>
 
 <div class="container">
     <div class="grid">
-        <div>Gtr</div>
-        <div>Fusca</div>
+        <div>Nissa</div>
+        <div>Porsche</div>
     </div>
 </div>
 

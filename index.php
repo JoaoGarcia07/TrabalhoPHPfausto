@@ -1,17 +1,11 @@
 <?php
 $title = "Página Inicial";
-include "header.php";
+include 'includes/header.php';
 ?>
 
+<h1>Olá</h1>
+<p>Seja Bem vindo a Panda-Store!</p>
+
 <?php
-    $nome = "Onofre";
-    $saudacao = "Olá";
-    // echo $saudacao . $nome;
-    $idade = 20; // escreva a idade do nome
-    // echo "Sua idade é:" . $idade;
-?>
-<h1>Olá <?php echo $nome; ?></h1>
-<p>Bem vindx a página da minha empresa!</p>
-<?php
-include "footer.php";
+include 'includes/footer.php';
 ?>
